@@ -1,0 +1,16 @@
+[
+    {
+    		"id" : "101",
+            "firstName": "Danny",
+            "lastName": "Sam",
+            "website": "globalleaning.in",
+			"city" : "Chennai"
+    },
+    {
+    		"id" : "102",
+            "firstName": "Nancy",
+            "lastName": "Maria",
+            "website": "globalleaning.in",
+			"city" : "Delhi"
+    }
+]
